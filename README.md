@@ -1,13 +1,13 @@
 # canoe_tools
 
-Tools and resources for the OnePlus 15 (Canoe/PLK110) Chinese variant.
+Tools and resources for the OnePlus 15 Chinese variant (Canoe/PLK110).
 
 ## Contents
 
-- **ota/** — Scripts to list and download OTA packages
-- **EfsTools/** — Qualcomm EFS Explorer CLI tool (submodule)
-- **qpst-enable-all-lte-bands-plk110/** — Enable all LTE/5G bands via QPST EFS edits (submodule)
-- **gbl_root_canoe/** — Root the OnePlus 15 via patched GBL (submodule)
+- **ota/** — Scripts to fetch OTA download links from [roms.danielspringer.at](https://roms.danielspringer.at), plus an Android 17 Beta 2 flashing guide with direct links
+- **EfsTools/** — CLI tool to read/write Qualcomm modem EFS over USB (alternative to QPST EFS Explorer) (submodule)
+- **qpst-enable-all-lte-bands-plk110/** — Modded policyman configs to unlock all hardware-supported LTE/5G bands (submodule)
+- **gbl_root_canoe/** — EDK2-based GBL/UEFI secure boot exploit for rooting Qualcomm devices (submodule)
 
 ## Clone
 
