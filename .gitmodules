@@ -4,3 +4,6 @@
 [submodule "gbl_root_canoe"]
 	path = gbl_root_canoe
 	url = git@github.com:PeronGH/gbl_root_canoe.git
+[submodule "EfsTools"]
+	path = EfsTools
+	url = git@github.com:PeronGH/EfsTools.git
