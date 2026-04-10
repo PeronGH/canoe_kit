@@ -1,4 +1,4 @@
-# canoe_tools
+# canoe_kit
 
 Tools and resources for the OnePlus 15 Chinese variant (Canoe/PLK110).
 
@@ -15,5 +15,5 @@ Tools and resources for the OnePlus 15 Chinese variant (Canoe/PLK110).
 ## Clone
 
 ```sh
-git clone --recurse-submodules git@github.com:PeronGH/canoe_tools.git
+git clone --recurse-submodules git@github.com:PeronGH/canoe_kit.git
 ```
