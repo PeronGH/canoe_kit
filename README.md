@@ -1,4 +1,4 @@
-# canoe_kit
+# op15_kit
 
 Tools and resources for the OnePlus 15.
 
